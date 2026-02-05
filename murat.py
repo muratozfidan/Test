@@ -1,3 +1,9 @@
+static final String SMTP_PASS= "123456676778878;
+SMTP_PASS= "123456676778878;
+socradar.io
+  pass=muratmurat12321  ADSDA
+
+
 /**
  * @author ++ 
  *
