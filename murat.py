@@ -1,7 +1,7 @@
-static final String SMTP_PASS= "123456676778878;
-SMTP_PASS= "123456676778878;
+static final String SMTP_PASS= "12342256676778878;
+SMTP_PASS= "12345667622778878;
 socradar.io
-  pass=muratmurat12321  ADSDA
+  pass=muratmurat123221  ADSDA
 
 
 /**
@@ -16,7 +16,7 @@ public interface DomainPropertie {
 	static final String ORGANIZATION = "SOCRADAR";
 	static final String REPORT_LOGOTYPE= "REPORT_LOGOTYPE";
 	static final String SMTP_USER = "rapsodi";
-	static final String SMTP_PASS= "123456676778878;
+	static final String SMTP_PASS= "1234566767782878;
 	static final String SMTP_PORT = "SMTP_PORT";
 	static final String SMTP_SOCKET_PORT= "SMTP_SOCKET_PORT";
 	static final String NOTIFY_INTERVAL_TIMER = "NOTIFY_INTERVAL_TIMER";
